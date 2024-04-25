@@ -125,7 +125,7 @@ print(plan)
 '''
 ```
 ## EXACT OUTPUT:
-<img width="1000" alt="AI 10 EXP Output" src="https://github.com/Ganesh23013987/19AI405ExpNo10/assets/147473768/c6274e23-3698-476f-9929-5f56600aca24">
+<img width="1400" alt="AI 10 EXP Output" src="https://github.com/Ganesh23013987/19AI405ExpNo10/assets/147473768/c6274e23-3698-476f-9929-5f56600aca24">
 
 ## RESULT:
 Therefore,Implementation of Classical Planning Algorithm is implemetated successfully.
